@@ -1,0 +1,6 @@
+{
+    "require": {
+        "summernote/summernote": "^0.8.8",
+        "ckeditor/ckeditor": "^4.23"
+    }
+}
